@@ -11,7 +11,7 @@ __pycache__/
 .Python
 
 # Wyniki generowane automatycznie
-results/
+# results/
 
 # Jupyter
 .ipynb_checkpoints/
