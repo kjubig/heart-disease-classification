@@ -1,0 +1,36 @@
+# Środowisko wirtualne
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Wyniki generowane automatycznie
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dane wrażliwe / duże pliki binarne
+*.xlsx
+*.zip
+
+# Logi
+*.log
